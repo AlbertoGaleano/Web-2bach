@@ -8,6 +8,7 @@
 }
 .uldrop {
   list-style-type: none;
+  font-family: verdana;
   margin: 0;
   padding: 0;
   overflow: hidden;
