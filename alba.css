@@ -1,3 +1,6 @@
 p .alba1{
-  background-color: pink;
+  background-color: "pink";
+}
+table .tablalba{
+  background-color:"green";
 }
