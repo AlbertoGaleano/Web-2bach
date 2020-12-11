@@ -1,5 +1,22 @@
-p. miguel1 {
+.miguel1 {
+	font-family: verdana ;
+	font-size: 3 ;
+	text-align: center;
 }
-
-p. miguel2 {
+.miuel2 {
+  
 }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid white;
+}
+table, td, th {
+  border: 1px solid white;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+color 737373
+color 8C0303
