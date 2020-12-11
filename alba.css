@@ -1,8 +1,12 @@
 p.alba1{
-  background-color: pink;
+  background-color: white;
 }
 table.tablalba{
-  background-color: green;
+  background-color: white;
   width:80%;
   border-width:5px;
+}
+td.1{ 
+  font-family:candara;
+  font-size: "3";
 }
