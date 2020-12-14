@@ -1,10 +1,15 @@
 <style>
-table{border-collapse: collapse; border:1px solid black; padding: 2px}
-body{text-align:center}
-h1{font-style:bold; font-size:24px}
+table, td{border-collapse: collapse; border:1px solid black; padding: 2px}
+body, table{text-align:center}
 img{height:250px; widht:400px}
-</style>}
-.luis1{}
-.luis2{}
-.luis3{}
-.luis4{}
+p{border-radius:5px ;border:solid red; padding: 1px}
+a:link {color: black}
+
+a:visited {color: purple}
+
+a:hover {color: gray}
+
+a:active {color: black}
+td.1{border:5px solid green}
+h1 {font-style: arial; background-color:red; padding: 3px}
+</style>
