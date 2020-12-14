@@ -5,14 +5,18 @@
 .maintitle {
 	font-family:verdana;
 	text-align: center;
+	font-size: 32px;
+	color: #FFC700;
 }
 .uldrop {
   list-style-type: none;
   font-family: verdana;
-  margin:0;
+  margin:-8px;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color:#F7F2E9;
+  font-family: arial;
+  font-size: 16px;
 }
 
 li.listdrop {
@@ -21,7 +25,8 @@ li.listdrop {
 
 li.listdrop1 {
   float: left;
-  margin-left: 30px
+  margin-left: 30px;
+  background-color:#FFC700;
 }
 
 li.listdrop2 {
@@ -31,14 +36,15 @@ li.listdrop2 {
 
 li a, .dropbtn {
   display: inline-block;
-  color: white;
+  color: black;
+  font-family: verdana;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: #FFC700;
 }
 
 li.dropdown {
@@ -49,7 +55,6 @@ li.dropdown {
   display: none;
   position: absolute;
   background-color: #f9f9f9;
-  
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
