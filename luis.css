@@ -1,8 +1,8 @@
 <style>
-table, td{border-collapse: collapse; border:1px solid black; padding: 2px}
-body, table{text-align:center}
-img{height:250px; widht:400px}
-p{border-radius:5px ;border:solid red; padding: 1px}
+table, td .tablaluis{border-collapse: collapse; border:1px solid black; padding: 2px}
+body .luis{text-align:center}
+img .imagenluis{height:250px; widht:400px}
+p .textoluis{border-radius:5px ;border:solid red; padding: 1px}
 a:link {color: black}
 
 a:visited {color: purple}
@@ -10,6 +10,6 @@ a:visited {color: purple}
 a:hover {color: gray}
 
 a:active {color: black}
-td.1{border:5px solid green}
-h1 {font-style: arial; background-color:red; padding: 3px}
+td .bordeproducto{border:5px solid green}
+.encabezadoluis{border-radius:10px; font-style: arial; background-color:red; padding: 3px}
 </style>
