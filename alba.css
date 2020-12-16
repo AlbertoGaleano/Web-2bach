@@ -9,8 +9,9 @@ table.tablalba{
   border-color="blue";
 }
 td.a1{ 
-  font-family:candara;
+  font-family:"candara";
   font-size: "3";
+  background-color:"red";
 }
 img.motos{
   width=250px;
