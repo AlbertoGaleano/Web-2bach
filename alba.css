@@ -2,9 +2,11 @@ p.alba1{
   background-color: white;
 }
 table.tablalba{
-  background-color: white;
+  background-color: red;
   width:80%;
+  align="center";
   border-width:5px;
+  border-color="blue";
 }
 td.a1{ 
   font-family:candara;
