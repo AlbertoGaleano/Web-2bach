@@ -6,7 +6,8 @@ table.tablalba{
   width:80%;
   margin: auto;
   border-width: 5px;
-  border-color="black";
+   border-style: solid;
+  border-color: black;
 }
 td.a1{ 
   font-family:"candara";
