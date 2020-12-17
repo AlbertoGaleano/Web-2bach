@@ -4,12 +4,11 @@
 .textoluis{border-radius:5px ;border:solid red; margin-right:175px; margin-left:175px}
 a.enlaces:link {text-decoration:none; color: black}
 
-a.enlaces:visited {text-decoration:none; color: purple}
+a:visited .enlaces{text-decoration:none; color: purple}
 
 a.enlaces:hover {text-decoration:none; color: gray}
 a.enlaces:active {tex-decoration:none; color: black}
 
 .encabezadoluis{text-align:center; border-radius:10px; font-style: arial; background-color:red; margin-right: 350px;
   margin-left: 350px;}
-.1{border-left-color: white; border-right-color:white}
 </style>
