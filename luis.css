@@ -1,14 +1,45 @@
-<style>
-.tablaluis{border-collapse: collapse; border:1px solid black; padding: 2px; text-align:center}
-.imagenluis{height:250px; widht:400px}
-.textoluis{border-radius:5px ;border:solid red; margin-right:175px; margin-left:175px}
-a.enlaces:link {text-decoration:none; color: black}
 
-a:visited .enlaces{text-decoration:none; color: purple}
+.tablaluis {
+  border-collapse: collapse; 
+  border:1px solid "black"; 
+  padding: 2px; 
+  text-align:center
+}
+.imagenluis {
+  height:250px; 
+  widht:400px
+}
+.textoluis {
+  border-radius:5px;
+  border:solid "red"; 
+  margin-right:175px; 
+  margin-left:175px
+}
+a.enlaces:link {
+  text-decoration:none; 
+  color: "black";
+}
 
-a.enlaces:hover {text-decoration:none; color: gray}
-a.enlaces:active {tex-decoration:none; color: black}
+a:visited .enlaces{
+  text-decoration:none; 
+  color: "purple";
+}
 
-.encabezadoluis{text-align:center; border-radius:10px; font-style: arial; background-color:red; margin-right: 350px;
-  margin-left: 350px;}
-</style>
+a.enlaces:hover {
+  text-decoration:none; 
+  color: "gray";
+}
+a.enlaces:active {
+  text-decoration:none; 
+  color: "black";
+}
+
+.encabezadoluis{
+  textt-align:center; 
+  border-radius:10px; 
+  font-style: "arial"; 
+  background-color:"red"; 
+  margin-right: 350px;
+  margin-left: 350px;
+}
+
