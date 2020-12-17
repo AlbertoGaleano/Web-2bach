@@ -1,27 +1,13 @@
+table.tablamiguel {
+  background-color: "red";
+  width: 80%;
+  margin: auto;
+  border-width: 6px;
+  border-style: solid;
+  border-color: "black";
+}
+  
+p.miguel1 {
+  background-color: "white";
 
-.miguel1 {
-	border-collapse: collapse; 
-	border:1px solid black; 
-	padding: 2px
-}
-.miguel2 {
-	text-align:center
-}
-.miguel3 {
-	height:250px; widht:400px
-}
-.miguel4 {
-	border-radius:5px ;border:solid red; padding: 1px
-}
-
-
-.miguel5 {color: black}
-.miguel6 {border:5px solid green}
-.miguel7 {
-	font-style: arial; 
-	background-color:red; 
-	padding: 3px
-}
-.miguel8 {
-}
 
