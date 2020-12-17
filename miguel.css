@@ -6,7 +6,10 @@ table.tablamiguel {
   border-style: solid;
   border-color: "black";
 }
-  
+img.bici{
+  height: 100px;
+  width: 200px;
+}
 p.miguel1 {
   background-color: "white";
 
