@@ -78,7 +78,8 @@ table.tablaluis {
   border-collapse: collapse; 
   border:2px solid "black"; 
   padding: 2px; 
-  text-align:center
+  text-align:center;
+	font-family:"Candara";
 }
 img.imagenluis {
   height:250px; 
