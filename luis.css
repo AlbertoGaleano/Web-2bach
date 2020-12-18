@@ -84,7 +84,7 @@ img.imagenluis {
   height:250px; 
   width:400px
 }
-.textoluis {
+p.textoluis {
   border-radius:5px;
   border:solid "red"; 
   margin-right:175px; 
@@ -109,7 +109,7 @@ a.enlaces:active {
   color: "black";
 }
 
-.encabezadoluis{
+h1.encabezadoluis{
   text-align:center;
   border-radius:10px;
   font-style: "arial";
