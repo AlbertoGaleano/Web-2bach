@@ -80,10 +80,11 @@ p.alba1{
 table.tablalba{
   background-color: "red";
   width: 80%;
-  margin: auto;
+  margin-top: 20px;
   border-width: 5px;
   border-style: solid;
   border-color: "black";
+	
 }
 td.a1{ 
   font-family:"candara";
