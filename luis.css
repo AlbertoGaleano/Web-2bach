@@ -74,13 +74,13 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-.tablaluis {
+table.tablaluis {
   border-collapse: collapse; 
   border:1px solid "black"; 
   padding: 2px; 
   text-align:center
 }
-.imagenluis {
+img.imagenluis {
   height:250px; 
   width:400px
 }
