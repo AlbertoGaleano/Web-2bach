@@ -98,12 +98,12 @@ a.enlaces:link {
 
 a.enlaces:visited {
   text-decoration:none; 
-  color: "purple";
+  color: "black";
 }
 
 a.enlaces:hover {
   text-decoration:none; 
-  color: "gray";
+  color: "black";
 }
 a.enlaces:active {
   text-decoration:none; 
