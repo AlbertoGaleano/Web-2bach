@@ -77,7 +77,8 @@ li.dropdown {
 
 table.tablaluis{
   	border-collapse: collapse; 
-	border:2px "solid" "black"; 
+	border-style:"solid";
+	border: 2px "black"; 
  	padding: 2px; 
   	text-align:"center";
 	font-family:"Candara";
@@ -96,22 +97,22 @@ p.textoluis{
   margin-left:175px
 }
 
-a.enlaces:link{
+a.enlaces:link {
   text-decoration:none; 
   color: "black";
 }
 
-a.enlaces:visited{
+a.enlaces:visited {
   text-decoration:none; 
   color: "black";
 }
 
-a.enlaces:hover{
+a.enlaces:hover {
   text-decoration:none; 
   color: "black";
 }
 
-a.enlaces:active{
+a.enlaces:active {
   text-decoration:none; 
   color: "black";
 }
