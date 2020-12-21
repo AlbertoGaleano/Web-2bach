@@ -74,6 +74,7 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
 table.tablaluis{
   	border-collapse: collapse; 
 	border:2px solid "black"; 
@@ -81,16 +82,19 @@ table.tablaluis{
   	text-align:center;
 	font-family:"Candara";
 }
+
 img.imagenluis{
   height:250px; 
   width:400px
 }
+
 p.textoluis{
   border-radius:5px;
   border:solid "red"; 
   margin-right:175px; 
   margin-left:175px
 }
+
 a.enlaces:link{
   text-decoration:none; 
   color: "black";
@@ -105,6 +109,7 @@ a.enlaces:hover{
   text-decoration:none; 
   color: "black";
 }
+
 a.enlaces:active{
   text-decoration:none; 
   color: "black";
