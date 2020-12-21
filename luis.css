@@ -74,38 +74,38 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-table.tablaluis {
+table.tablaluis{
   	border-collapse: collapse; 
 	border:2px solid "black"; 
  	padding: 2px; 
   	text-align:center;
 	font-family:"Arial";
 }
-img.imagenluis {
+img.imagenluis{
   height:250px; 
   width:400px
 }
-p.textoluis {
+p.textoluis{
   border-radius:5px;
   border:solid "red"; 
   margin-right:175px; 
   margin-left:175px
 }
-a.enlaces:link {
+a.enlaces:link{
   text-decoration:none; 
   color: "black";
 }
 
-a.enlaces:visited {
+a.enlaces:visited{
   text-decoration:none; 
   color: "black";
 }
 
-a.enlaces:hover {
+a.enlaces:hover{
   text-decoration:none; 
   color: "black";
 }
-a.enlaces:active {
+a.enlaces:active{
   text-decoration:none; 
   color: "black";
 }
