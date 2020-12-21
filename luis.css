@@ -77,12 +77,11 @@ li.dropdown {
 
 table.tablaluis{
   	border-collapse: collapse; 
-	border-style:"solid";
-	border: 2px "black"; 
+	border: 2px solid "black"; 
  	padding: 2px; 
   	text-align:"center";
 	font-family:"Candara";
-	 background-color:"red";
+	 background-color:red;
 }
 
 img.imagenluis{
