@@ -81,12 +81,13 @@ table.tablalba{
   background-color: white;
   width: 80%;
   margin:auto;
-border-collapse: collapse;  
+border-collapse: collapse; 
+	font-family: candara;
 
 	
 }
 td.a1{ 
-  font-family: arial;
+  font-family: candara;
   font-size: 16px;
   	 border: 2px solid black;
 }
