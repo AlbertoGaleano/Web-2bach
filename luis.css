@@ -76,8 +76,8 @@ li.dropdown {
 }
 
 table.tablaluis{
-  	border-collapse: collapse; 
-	border: 2px solid "black"; 
+  	border: 2px solid "black";
+	border-collapse: collapse; 
  	padding: 2px; 
   	text-align:"center";
 	font-family:"Candara";
@@ -90,8 +90,8 @@ img.imagenluis{
 }
 
 p.textoluis{
-  border-radius:5px;
   border:"solid" "red"; 
+  border-radius:5px;
   margin-right:175px; 
   margin-left:175px
 }
