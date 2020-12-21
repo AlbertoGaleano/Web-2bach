@@ -75,10 +75,10 @@ li.dropdown {
   display: block;
 }
 table.tablaluis {
-  border-collapse: collapse; 
-  border:2px solid "black"; 
-  padding: 2px; 
-  text-align:center;
+  	border-collapse: collapse; 
+	border:2px solid "black"; 
+ 	padding: 2px; 
+  	text-align:center;
 	font-family:"Candara";
 }
 img.imagenluis {
