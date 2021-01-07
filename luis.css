@@ -95,4 +95,20 @@ p.textoluis{
   margin-right:175px; 
   margin-left:175px
 }
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+color: black;
+  text-decoration: none;}
+
+a:hover {
+color: black;
+  text-decoration: none;}
+
+a:active {
+color: black;
+  text-decoration: none;}
 
