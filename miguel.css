@@ -75,6 +75,9 @@ li.dropdown {
   display: block;
 }
 
+p1.miguel1{
+	background-color: white;
+}
 table.tablamiguel{
 	align: center;
   	border: 0px solid black;
@@ -83,44 +86,23 @@ table.tablamiguel{
   	text-align:center;
 	font-family:Candara;
 }
-img.imagenmiguel{
-  height:250px; 
-  width:400px
+td.miguel{ 
+  font-family: verdana;
+  font-size: 16px;
+  border: 2px solid black;
+	
+}
+	
+img.bicis{
+  height:200px; 
+  width:300px
 }
 
-p.textomiguel{
-  border:solid red; 
-  border-radius:5px;
-  margin-right:175px; 
-  margin-left:175px
-}
-
-a.enlaces:link {
-  text-decoration:none; 
-  color: black;
-}
-
-a.enlaces:visited {
-  text-decoration:none; 
-  color: black;
-}
-
-a.enlaces:hover {
-  text-decoration:none; 
-  color: black;
-}
-
-a.enlaces:active {
-  text-decoration:none; 
-  color: black;
+div.center{
+   margin: auto;
+   padding: 20px;
 }
 
 
-
-
-
-
-p.miguel1 {
-  background-color: "white";
 
 
