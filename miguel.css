@@ -76,15 +76,51 @@ li.dropdown {
 }
 
 
-table.tablamiguel {
-  background-color: "red";
-  width: 80%;
-  margin: auto;
-  border-width: 6px;
-  border-style: solid;
-  border-color: "black";
-	margin-top: 20px;
+
+table.tablamiguel{
+	align: center;
+  	border: 0px solid black;
+	border-collapse: collapse; 
+ 	padding: 2px; 
+  	text-align:center;
+	font-family:Candara;
 }
+img.imagenmiguel{
+  height:250px; 
+  width:400px
+}
+
+p.textomiguel{
+  border:solid red; 
+  border-radius:5px;
+  margin-right:175px; 
+  margin-left:175px
+}
+
+a.enlaces:linkmigu {
+  text-decoration:none; 
+  color: black;
+}
+
+a.enlaces:visited {
+  text-decoration:none; 
+  color: black;
+}
+
+a.enlaces:hover {
+  text-decoration:none; 
+  color: black;
+}
+
+a.enlaces:active {
+  text-decoration:none; 
+  color: black;
+}
+
+
+
+
+
 img.bici{
   height: 100px;
   width: 200px;
