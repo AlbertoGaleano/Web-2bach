@@ -75,8 +75,6 @@ li.dropdown {
   display: block;
 }
 
-
-
 table.tablamiguel{
 	align: center;
   	border: 0px solid black;
@@ -97,7 +95,7 @@ p.textomiguel{
   margin-left:175px
 }
 
-a.enlaces:linkmigu {
+a.enlaces:link {
   text-decoration:none; 
   color: black;
 }
@@ -121,10 +119,7 @@ a.enlaces:active {
 
 
 
-img.bici{
-  height: 100px;
-  width: 200px;
-}
+
 p.miguel1 {
   background-color: "white";
 
