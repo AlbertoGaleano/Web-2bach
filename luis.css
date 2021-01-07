@@ -76,7 +76,7 @@ li.dropdown {
 }
 
 table.tablaluis{
-	align=center;
+	margin: 15px 30px;
   	border: 0px solid black;
 	border-collapse: collapse; 
  	padding: 2px; 
