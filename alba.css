@@ -84,6 +84,7 @@ table.tablalba{
 border-collapse: collapse; 
 	font-family: verdana;
 	padding: 30px;
+	 border: 2px solid black;
 
 	
 }
@@ -98,12 +99,12 @@ img.motos{
   width: 300px;
 }
 img.motos2{
-	height: 150px;
-	width: 250px;
+	height: 170px;
+	width: 200px;
 }
 div.centrado{
 	margin: auto;
 	padding: 20px;
-	 border: 2px solid black;
+	
 }
 
