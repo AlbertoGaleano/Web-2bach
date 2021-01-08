@@ -95,7 +95,11 @@ td.a1{
 }
 img.motos{
   height: 200px;
-  width: 300px;
+  width: 200px;
+}
+img.motos2{
+	height: 150px;
+	width: 150px;
 }
 div.centrado{
 	margin: auto;
