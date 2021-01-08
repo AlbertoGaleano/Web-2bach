@@ -100,5 +100,6 @@ img.motos{
 div.centrado{
 	margin: auto;
 	padding: 20px;
+	border:5px;
 }
 
