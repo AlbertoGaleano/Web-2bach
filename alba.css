@@ -97,6 +97,7 @@ td.a1{
 img.motos{
   height: 200px;
   width: 300px;
+margin-top: 50px;
 }
 img.motos2{
 	height: 170px;
@@ -112,12 +113,5 @@ p.centrar{
 	text-align: center;
 }
 
-div. margen{
-	padding-top: 25px;
-}
 
-p.margen{
-  margin-top: 50x;
-}
-	
 
