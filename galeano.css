@@ -121,7 +121,6 @@ div.gallery {
 
 div.gallery:hover {
   border: 0px solid #777;
-  opacity: 0.8;
   z-index: -1;
 }
 
