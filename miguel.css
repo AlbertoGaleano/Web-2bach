@@ -79,12 +79,13 @@ p1.miguel1{
 	background-color: white;
 }
 table.tablamiguel{
-	align: center;
-  	border: 0px solid black;
+	 background-color: white;
+ 	 width: 80%;
+  	margin:auto;
 	border-collapse: collapse; 
- 	padding: 2px; 
-  	text-align:center;
-	font-family:Candara;
+	font-family: verdana;
+	padding: 30px;
+	border: 2px solid black;
 }
 td.md1{ 
   font-family: verdana;
