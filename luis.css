@@ -103,7 +103,8 @@ p.textoluis{
   border:solid #FFC700; 
   border-radius:5px;
   margin-right:175px; 
-  margin-left:175px
+  margin-left:175px;
+	text-align:center;
 }
 p.textoluis2{
   border:solid #FFC700; 
