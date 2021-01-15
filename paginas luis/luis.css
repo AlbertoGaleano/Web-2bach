@@ -82,6 +82,7 @@ table.tablaluis{
  	padding: 2px; 
   	text-align:center;
 	font-family: Candara;
+	
 }
 
 table.tablaluis2{
@@ -91,7 +92,7 @@ table.tablaluis2{
  	padding: 2px; 
   	text-align:center;
 	font-family: Candara;
-	 border-radius:5px;
+	 border-radius: 5px;
 }
 
 img.imagenluis{
