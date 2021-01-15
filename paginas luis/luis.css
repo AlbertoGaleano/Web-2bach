@@ -1,0 +1,129 @@
+.organization {
+	border: 0;
+	width: 80%;
+}
+.maintitle {
+	font-family:"verdana";
+	text-align: center;
+	font-size: 32px;
+	color: #FFC700;
+	padding:40px;
+}
+.uldrop {
+  list-style-type: none;
+  font-family: "verdana";
+  margin:-8px;
+  padding: 0;
+  overflow: hidden;
+  background-color:#F7F2E9;
+  font-family: "arial";
+  font-size: 16px;
+}
+
+li.listdrop {
+  float: left;
+}
+
+li.listdrop1 {
+  float: left;
+  margin-left: 30px;
+  background-color:#FFC700;
+}
+
+li.listdrop2 {
+  float: right;
+  margin-right: 30px;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: "black";
+  font-family: "verdana";
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: #FFC700;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  
+}
+
+.dropdown-content a {
+  color: "black";
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+table.tablaluis{
+	margin: auto;
+  	border: 0px solid black;
+	border-collapse: collapse; 
+ 	padding: 2px; 
+  	text-align:center;
+	font-family: Candara;
+}
+
+table.tablaluis2{
+	margin: auto;
+  	border: 1px solid #FFC700;
+	border-collapse: collapse; 
+ 	padding: 2px; 
+  	text-align:center;
+	font-family: Candara;
+	 border-radius:5px;
+}
+
+img.imagenluis{
+  height:250px; 
+  width:400px
+}
+
+p.textoluis{
+  border:solid #FFC700; 
+  border-radius:5px;
+  margin-right:175px; 
+  margin-left:175px;
+	text-align:center;
+}
+p.textoluis2{
+  border:solid #FFC700; 
+  border-radius:5px;
+  margin: auto
+}
+a.linkluis:link {
+  color: black;
+  text-decoration: none;
+}
+
+a.linkluis:visited {
+color: black;
+  text-decoration: none;}
+
+a.linkluis:hover {
+color: black;
+  text-decoration: none;}
+
+a.linkluis:active {
+color: black;
+  text-decoration: none;}
