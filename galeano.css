@@ -30,7 +30,10 @@ li.listdrop {
 li.listdrop1 {
   float: left;
   margin-left: 30px;
-  background-color:#FFC700;
+}
+
+li a, .dropbtn1{
+	color: #FFC700;
 }
 
 li.listdrop2 {
@@ -40,16 +43,18 @@ li.listdrop2 {
 
 li a, .dropbtn {
   display: inline-block;
-  color: black;
+  color: grey;
   font-size:20px;
   font-family: arial;
   text-align: center;
   padding: 30px 20px;
   text-decoration: none;
+  transition: background-color 0.7s , color 0.8s;
 }
 
 li a:hover, .dropdown:hover .dropbtn {
   background-color: #FFC700;
+  color: black;
 }
 
 li.dropdown {
@@ -66,14 +71,18 @@ li.dropdown {
 }
 
 .dropdown-content a {
-  color: black;
+  color: grey;
   padding: 20px 16px;
   text-decoration: none;
   display: block;
   text-align: left;
+  transition: background-color 0.7s,color 0.7s;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1;}
+.dropdown-content a:hover {
+	background-color: #f1f1f1;
+	color: black;
+}
 
 .dropdown:hover .dropdown-content {
   display: block;
