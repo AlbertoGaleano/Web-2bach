@@ -147,6 +147,7 @@ p.text{
 	font-size: 18px;
 	text-align: justify;
 	line-height: 2;
+	max-width: 1200px;
 }
 
 .button{
@@ -245,3 +246,12 @@ div.gallery img {
 	margin-top: 30px;
 }
 
+div.selectmts1{
+	display: inline-block;
+	margin: auto;
+	margin: 10px;
+	width: 300px;
+	height: 300px;
+	background-color: grey;
+	margin-bottom: 50px;
+}
