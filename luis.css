@@ -198,3 +198,10 @@ p.botonluis{
 p.botonluis:hover{
 background: #FFC700AB
 }
+
+h1{
+text-align:center;
+	font-family: Candara;
+	font-size: 30px;
+	
+}
