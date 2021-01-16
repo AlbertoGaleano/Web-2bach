@@ -192,6 +192,9 @@ p.botonluis{
 	background-color: #FFC700;
 	font-family: Candara;
 	font-size: 25px;
-	transition: background-color 0.7s , color 0.8s;
+	transition: background 0.7s;
 }
 
+p.botonluis:hover{
+background: #FFC700AB
+}
