@@ -194,4 +194,6 @@ p.botonluis{
 	font-size: 25px;
 }
 
-td.juntacion{colspan=2}
+td.juntacion{
+	colspan="2";
+}
