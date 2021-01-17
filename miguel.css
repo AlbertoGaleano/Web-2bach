@@ -116,4 +116,35 @@ div.center{
 p.centro{
 	text-align: center;
 }
+.button{
+	padding:20px 40px;
+	background-color:#FFC700;
+	text-decoration:none;
+	text-align:center;
+	color: black;
+	font-family: arial;
+	font-size: 18px;
+	border-radius: 30px;
+	transition: box-shadow 1s;
+}
 
+.buton:hover{
+	box-shadow: 0px 16px 32px 0px rgba(0,0,0,0.2);
+}
+
+.butonposición{
+	width: 15%;
+	margin: auto;
+	text-align:center;
+	margin-bottom: 200px;
+}
+
+div.cb{
+	position: relative;
+	margin: auto;
+	width: 1200px;
+	padding: 200px;
+	height: auto;
+	margin-bottom: 200px;
+	box-shadow: 0px 16px 32px 0px rgba(0,0,0,0.2);
+}
