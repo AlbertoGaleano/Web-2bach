@@ -106,12 +106,7 @@ img.bicis3{
   height: 350px;
   width: 400px;
 }	
-div.stick {
-	position: -webkit-sticky; /* Safari */
-	position: sticky;
-	top: 0;
-	z-index: 2;
-}
+
 
 div.center{
    margin: auto;
