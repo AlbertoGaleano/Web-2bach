@@ -116,38 +116,4 @@ div.center{
 p.centro{
 	text-align: center;
 }
-p.botonmiguel{
-	text-align:center;
-	border-radius:5px;
-	background-color: #FFC700;
-	font-family: Candara;
-	font-size: 25px;
-	transition: background 0.7s;
-	 text-decoration: none;
-}
-p.botonmiguel:hover{
-background: #FFC700AB
-}
-p.comprada{
-	text-align:center;
-	font-family: Candara;
-	font-size: 30px;
-	
-}
-a.linkmiguel:link {
-  color: black;
-  text-decoration: none;
-}
-
-a.linkmiguel:visited {
-color: black;
-  text-decoration: none;}
-
-a.linkmiguel:hover {
-color: black;
-  text-decoration: none;}
-
-a.linkmiguel:active {
-color: black;
-  text-decoration: none;}
 
