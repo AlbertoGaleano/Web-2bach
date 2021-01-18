@@ -165,9 +165,11 @@ p.textoluis{
 	text-align:center;
 }
 p.textoluis2{
-  border:solid #FFC700; 
-  border-radius:5px;
-  margin: auto
+   border:solid #;
+  margin-right:175px; 
+  margin-left:175px;
+	text-align:center;
+}
 }
 a.linkluis:link {
   color: black;
