@@ -208,3 +208,6 @@ p.comprado{
 	font-size: 30px;
 	
 }
+ul{
+  list-style-type: none;
+}
