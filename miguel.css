@@ -87,6 +87,23 @@ table.tablamiguel{
 	padding: 30px;
 	border: 2px solid black;
 }
+table.tablamiguel2{
+	margin: auto;
+  	border: 1px solid #FFC700;
+	border-collapse: collapse; 
+ 	padding: 2px; 
+  	text-align:center;
+	font-family: Candara;
+	 border-radius:5px;
+}
+p.textomiguel{
+  border:solid #FFC700; 
+  border-radius:5px;
+  margin-right:175px; 
+  margin-left:175px;
+	text-align:center;
+}
+
 td.md1{ 
   font-family: verdana;
   font-size: 16px;	
@@ -199,20 +216,6 @@ div.selectionprice{
 	font-size: 20px;
 	margin-top: 10px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
