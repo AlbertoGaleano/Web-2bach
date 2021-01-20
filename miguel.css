@@ -218,7 +218,6 @@ div.selectionprice{
 
 ul.a {
   list-style-type: circle;
- text-align: justify;
 }
 
 p {
@@ -227,7 +226,9 @@ p {
   margin-right: 150px;
   margin-left: 80px;
 }
-
+p.miguel {
+	 text-align: justify;
+}
 
 
 
