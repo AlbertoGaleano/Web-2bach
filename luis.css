@@ -15,7 +15,7 @@ div.maintitle img{
   margin:-8px;
   margin-bottom: 100px;
   margin-top:30px;
-  padding: 0;
+  padding: 0;d
   overflow: hidden;
   background-color:#F7F2E9;
   font-family: arial;
@@ -134,7 +134,7 @@ table.tablaluis{
 	border-collapse: collapse; 
  	padding: 2px; 
   	text-align:center;
-	font-family: Candara;
+	font-family: Arial;
 }
 
 table.tablaluis2{
@@ -143,7 +143,7 @@ table.tablaluis2{
 	border-collapse: collapse; 
  	padding: 2px; 
   	text-align:center;
-	font-family: Candara;
+	font-family: Arial;
 	 border-radius:5px;
 }
 
@@ -192,7 +192,7 @@ p.botonluis{
 	text-align:center;
 	border-radius:5px;
 	background-color: #FFC700;
-	font-family: Candara;
+	font-family: Arial;
 	font-size: 25px;
 	transition: background 0.7s;
 	 text-decoration: none;
@@ -204,7 +204,7 @@ background: #FFC700AB
 
 p.comprado{
 	text-align:center;
-	font-family: Candara;
+	font-family: Arial;
 	font-size: 30px;
 	
 }
