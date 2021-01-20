@@ -216,7 +216,7 @@ div.selectionprice{
 	margin-top: 10px;
 }
 
-ul,li.a {
+ul.a {
   list-style-type: circle;
   text-align: left;
 }
@@ -230,7 +230,9 @@ p {
 p.miguel {
 	 text-align: left;
 }
-
+.listamiguel{
+	text-align: left;
+}
 
 
 
