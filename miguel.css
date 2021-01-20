@@ -216,8 +216,9 @@ div.selectionprice{
 	margin-top: 10px;
 }
 
-ul.a {
+ul,li.a {
   list-style-type: circle;
+  text-align: left;
 }
 
 p {
